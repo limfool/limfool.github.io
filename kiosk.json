@@ -73,5 +73,8 @@
 {"kiosk_id":"ECPK2503-082000070","kiosk_num":70,"anydesk_id":"1-161-714-167","inst_date":"2025-03-07","kiosk_name":"55호점 - 용인 구성점","units":"2호기","addr":"경기도 용인시 기흥구 구성로39번길 12"},
 {"kiosk_id":"ECPK2503-082000071","kiosk_num":71,"anydesk_id":"1-915-749-623","inst_date":"2025-03-07","kiosk_name":"58호점 - 송파 삼전점","units":"1호기","addr":"서울특별시 송파구 삼전로10길 55"},
 {"kiosk_id":"ECPK2503-082000072","kiosk_num":72,"anydesk_id":"1-369-297-272","inst_date":"2025-03-07","kiosk_name":"58호점 - 송파 삼전점","units":"2호기","addr":"서울특별시 송파구 삼전로10길 55"},
-   ]
+{"kiosk_id":"ECPK2503-082000073","kiosk_num":73,"anydesk_id":"1-655-157-890","inst_date":"2025-03-13","kiosk_name":"광주 진월점","units":"","addr":"광주광역시 남구 광복마을3길 28, 1층"},
+{"kiosk_id":"ECPK2503-082000074","kiosk_num":74,"anydesk_id":"1-140-241-218","inst_date":"2025-03-13","kiosk_name":"광주 진월점","units":"","addr":"광주광역시 남구 광복마을3길 28, 1층"},
+{"kiosk_id":"ECPK2503-082000075","kiosk_num":75,"anydesk_id":"1-085-014-737","inst_date":"2025-03-13","kiosk_name":"광주 진월점","units":"","addr":"광주광역시 남구 광복마을3길 28, 1층"},
+ ]
 }
